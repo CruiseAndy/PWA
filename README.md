@@ -1,2 +1,0 @@
-# PWA
-Progressive Web App
